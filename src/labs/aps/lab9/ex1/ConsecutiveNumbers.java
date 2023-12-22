@@ -1,7 +1,5 @@
 package labs.aps.lab9.ex1;
 
-// package labs.aps.lab9.ex1;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
