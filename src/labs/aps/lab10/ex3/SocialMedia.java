@@ -2,15 +2,7 @@ package labs.aps.lab10.ex3;
 //implementation from exercises
 
 import java.util.*;
-
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Set;
-import java.util.Map;
 import java.util.Map.Entry;
-import java.util.Queue;
-import java.util.Stack;
 
 class AdjacencyListGraph<T> {
     private Map<T, Set<T>> adjacencyList;
