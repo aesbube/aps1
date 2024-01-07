@@ -6,32 +6,17 @@ import java.util.StringTokenizer;
 
 public class SumOfAbsoluteDifferences {
     static int solve(int[] numbers, int N, int K) {
-        int maxSum = Integer.MIN_VALUE;
-
-        // Find all possible combinations of K elements
-        for (int mask = 0; mask < (1 << N); mask++) {
-            if (Integer.bitCount(mask) == K) {
-                int[] chosen = new int[K];
-                int idx = 0;
-
-                for (int i = 0; i < N; i++) {
-                    if ((mask & (1 << i)) != 0) {
-                        chosen[idx++] = numbers[i];
-                    }
+        int[][] matrix = new int[N][K];
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < N; i++) {
+            for (int j = 1; j < K; j++) {
+                for (int k = 0; k < i; k++) {
+                    matrix[i][j] = Math.max(matrix[i][j], matrix[k][j - 1] + Math.abs(numbers[i] - numbers[k]));
                 }
-
-                // Calculate the sum of absolute differences for the chosen sequence
-                int sum = 0;
-                for (int i = 1; i < K; i++) {
-                    sum += Math.abs(chosen[i] - chosen[i - 1]);
-                }
-
-                // Update the maximum sum
-                maxSum = Math.max(maxSum, sum);
+                max = Math.max(matrix[i][j], max);
             }
         }
-
-        return maxSum;
+        return max;
     }
 
     public static void main(String[] args) throws Exception {
