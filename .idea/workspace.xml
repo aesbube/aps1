@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d72eaad-283d-4e4f-ac8f-e4aef44df256" name="Changes" comment="aps labs" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XJALbrjLW0iO7thgcTEl6iSmPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "last_opened_file_path": "C:/Users/PC/Desktop/APS/Labs/FirstMidtermExercises/src/exercises",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/PC/Desktop/APS/Labs/FirstMidtermExercises/SecondMidtermExercises/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="labs.aps.lab6.ex3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\APS\Labs\FirstMidtermExercises\src\exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Faculty">
+    <configuration name="CityPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.lab11.ex1.CityPath" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.lab11.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Faculty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.lab11.ex2.Faculty" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.lab11.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.lab10.ex3.SocialMedia" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.lab10.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfAbsoluteDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.lab4.ex3.SumOfAbsoluteDifferences" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.lab4.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graph2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.lab10.ex2.graph2" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.lab10.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Faculty" />
+        <item itemvalue="Application.SumOfAbsoluteDifferences" />
+        <item itemvalue="Application.CityPath" />
+        <item itemvalue="Application.SocialMedia" />
+        <item itemvalue="Application.graph2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d72eaad-283d-4e4f-ac8f-e4aef44df256" name="Changes" comment="" />
+      <created>1698336755191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698336755191</updated>
+      <workItem from="1698336756290" duration="14064000" />
+      <workItem from="1698356972887" duration="32000" />
+      <workItem from="1698677338503" duration="332000" />
+      <workItem from="1698677678385" duration="17000" />
+      <workItem from="1698677699651" duration="8870000" />
+      <workItem from="1698786410177" duration="5000" />
+      <workItem from="1698951728823" duration="818000" />
+      <workItem from="1699021187878" duration="1350000" />
+      <workItem from="1699027247586" duration="23000" />
+      <workItem from="1699116069167" duration="6000" />
+      <workItem from="1699221275300" duration="1966000" />
+      <workItem from="1699276168768" duration="6184000" />
+      <workItem from="1699298401413" duration="7344000" />
+      <workItem from="1699389564434" duration="5591000" />
+      <workItem from="1699471622016" duration="1263000" />
+      <workItem from="1699562296140" duration="294000" />
+      <workItem from="1699645943807" duration="44000" />
+      <workItem from="1699892904553" duration="4642000" />
+      <workItem from="1699996334591" duration="1000" />
+      <workItem from="1700084281235" duration="11000" />
+      <workItem from="1700160801166" duration="7999000" />
+      <workItem from="1700573709252" duration="607000" />
+      <workItem from="1700579493564" duration="7550000" />
+      <workItem from="1700603255362" duration="1848000" />
+      <workItem from="1700677894685" duration="8630000" />
+      <workItem from="1700736381081" duration="5437000" />
+      <workItem from="1700750358092" duration="29000" />
+      <workItem from="1701801643562" duration="6675000" />
+      <workItem from="1701814020584" duration="924000" />
+      <workItem from="1702050081205" duration="6011000" />
+      <workItem from="1702059005407" duration="6274000" />
+      <workItem from="1702483470762" duration="9175000" />
+      <workItem from="1702648178481" duration="121000" />
+      <workItem from="1702731866073" duration="12000" />
+      <workItem from="1703167206377" duration="8296000" />
+      <workItem from="1703245689773" duration="4763000" />
+      <workItem from="1703372628605" duration="8000" />
+      <workItem from="1703681295672" duration="7128000" />
+      <workItem from="1703794881140" duration="595000" />
+      <workItem from="1703936318583" duration="13612000" />
+      <workItem from="1704123738984" duration="1000" />
+      <workItem from="1704221792352" duration="16000" />
+      <workItem from="1704304923396" duration="4829000" />
+      <workItem from="1704575191846" duration="9698000" />
+      <workItem from="1704651360142" duration="9000" />
+      <workItem from="1705763104800" duration="932000" />
+    </task>
+    <task id="LOCAL-00001" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703168531135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703168531135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703245863990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703245863990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703250974577</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703250974577</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703950624060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703950624060</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703950641041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703950641041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703950995363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703950995363</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1703951147264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703951147264</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1704585803333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704585803333</updated>
+    </task>
+    <task id="LOCAL-00009" summary="aps labs">
+      <option name="closed" value="true" />
+      <created>1705763882109</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705763882110</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aps labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="aps labs" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab1/ex2/ReverseWord.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab3/ex1/DLLBattalion.java</url>
+          <line>275</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab3/ex1/DLLBattalion.java</url>
+          <line>284</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab3/ex2/CountWordPairs.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab3/ex1/DLLBattalion.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab4/ex2/ZigZagSequence.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab4/ex3/SumOfAbsoluteDifferences.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab5/ex1/OddEvenSort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab5/ex2/ShakerSort.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab6/ex3/MVR.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab6/ex3/MVR.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab1/ex2/ReverseWord.java</url>
+          <line>25</line>
+          <properties class="LabExercises.aps.lab1.ex2.ReverseWord" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab3/ex3/MiceHoles.java</url>
+          <line>10</line>
+          <properties class="LabExercises.aps.lab3.ex3.MiceHoles" method="minTime">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab3/ex1/DLLBattalion.java</url>
+          <line>206</line>
+          <properties class="LabExercises.aps.lab3.ex1.DLLBattalion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab4/ex2/ZigZagSequence.java</url>
+          <line>7</line>
+          <properties class="LabExercises.aps.lab4.ex2.ZigZagSequence" method="najdiNajdolgaCikCak">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab4/ex3/SumOfAbsoluteDifferences.java</url>
+          <line>7</line>
+          <properties class="LabExercises.aps.lab4.ex3.SumOfAbsoluteDifferences" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab5/ex1/OddEvenSort.java</url>
+          <line>9</line>
+          <properties class="LabExercises.aps.lab5.ex1.OddEvenSort" method="oddEvenSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LabExercises/lab5/ex2/ShakerSort.java</url>
+          <line>8</line>
+          <properties class="LabExercises.aps.lab5.ex2.ShakerSort" method="shakerSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="40" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
