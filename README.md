@@ -1,1 +1,1 @@
-APS lab exercieses 2023/2024
+APS lab and midterm exercieses 2023/2024
